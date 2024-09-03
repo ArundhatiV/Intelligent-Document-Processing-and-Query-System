@@ -1,6 +1,8 @@
 # Intelligent-Document-Processing-and-Query-System
 Developed a system that processes technical PDF documents, extracts key information, stores it in a vector database, and provides relevant responses to user queries using Retrieval- Augmented Generation (RAG).
 
+![image](https://github.com/user-attachments/assets/5d41d6c9-2ad3-4959-a32f-0b920b9fab45)
+
 ```markdown
 # DocuGenie: Your AI-powered Insight Generator from PDFs
 
